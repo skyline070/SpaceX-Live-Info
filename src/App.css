@@ -1,0 +1,21 @@
+
+.main-page{
+    display: flex;
+    width: 100%;
+}
+
+.sidebar{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sidebar2{
+  
+     margin-top: 100px;
+   
+}
+.content{
+    width: 100%;
+    background-image: url("https://live.staticflickr.com/7706/26751237322_5a52540ea3_h.jpg");
+}

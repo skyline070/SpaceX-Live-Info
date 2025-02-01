@@ -1,0 +1,59 @@
+.App {
+    text-align: center;
+  }
+  
+  .rocketslist {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .rocketcard {
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    width: 350px;
+    height: 100;
+  }
+  
+  .rocketcard img {
+    object-fit: cover;
+    width: 300px;
+  height: 500px;
+    
+  }
+  
+  .rocketdetails {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .detailscontent {
+   
+    
+   margin-bottom: 20px;
+    background: white;
+    padding: 50px;
+    position: relative;
+  }
+  
+  .detailscontent button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .detailscontent img{
+ width: 50%;
+ height: 50%;
+
+  }

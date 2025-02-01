@@ -1,0 +1,55 @@
+.outerCard{
+    margin: 0.6rem;
+    padding: 1.75rem;
+    width:  420px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.5);
+    position: relative;
+    z-index: 2;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+}
+.outerCard svg{
+   margin-left: 25%;
+    
+}
+
+
+.logo{
+    width: 130px;
+    height: 130px;
+}
+.bigFont{
+    
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-size: 0.74rem;
+    margin: 0px;
+    padding: 0px;
+}
+.upcomingheader{
+    font-size: 30px;
+}
+
+
+.launchfacilities {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    margin: 0.6rem;
+    padding: 1.75rem;
+    width:  420px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.5);
+    position: relative;
+    z-index: 2;
+   
+    
+  }
