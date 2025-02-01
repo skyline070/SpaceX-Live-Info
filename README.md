@@ -4,7 +4,7 @@ Brainstorm and build a functional (working) project by
 consuming data from the public SpaceX API.
 The application should be usable, elegant and functional.
 
-View Here:- space-x-live-info-ten.vercel.app
+View Here:-https://space-x-live-info-ten.vercel.app/
 
 API: https://docs.spacexdata.com/
 Features:
